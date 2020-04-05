@@ -6,7 +6,7 @@ public class Starter {
 		int numberOfVowels = 0 ;
 		double percentageOfVowels = 0.0 ;
 		System.out.println("Il y a " + numberOfVowels + " voyelles dans ce texte, soit" + percentageOfVowels + "%" ) ;
-		// Définition de variables.
+		// DÃ©finition de variables.
 		
 		final int numberOfPets = 1 ;
 		// Constante non modifiable
@@ -15,6 +15,8 @@ public class Starter {
 		int a = 10 ;
 		int b = 4 ;
 		double c = a / b ;
-		// Si un calcul est fait à partir de variables de type entier, le résultat sera un entier.Voir plus dans Calcul => combinaisons de variables.
+		// Si un calcul est fait Ã  partir de variables de type entier, le rÃ©sultat sera un entier.Voir plus dans Calcul => combinaisons de variables.
+		
+		// autre chose
 	}
 }
